@@ -1,5 +1,5 @@
 # AVPlay
-音视频播放Demo
+音视频播放Demo，实现音视频播放功能，滑出屏幕显示小窗口，点击进入全屏。音乐播放显示进度条，锁屏显示音乐播放控制界面。
 
 ### Utils文件夹主要是工具类
 * Player 是之前自定义的Demo，包括下载和播放  
@@ -58,3 +58,11 @@ Guide 引导页
  * pod 'LBLelinkKit'
  * pod 'DoraemonKit/Core', '~> 1.1.9', :configurations => ['Debug']
  * pod 'DoraemonKit/WithLogger', '~> 1.1.9', :configurations => ['Debug']
+ 
+ ![1](https://upload-images.jianshu.io/upload_images/1914840-ddb6162fe1a33dea.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+ ![2](https://upload-images.jianshu.io/upload_images/1914840-e8318a363e6f1797.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+ ![3](https://upload-images.jianshu.io/upload_images/1914840-2af7a7cade0f7ab3.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+ ![4](https://upload-images.jianshu.io/upload_images/1914840-73eef903cb7db682.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+ !(5)(https://upload-images.jianshu.io/upload_images/1914840-0a843088869bb06f.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+ ![6](https://upload-images.jianshu.io/upload_images/1914840-e642e77d797d1b70.png?imageMogr2/auto-orient/strip|imageView2/2/w/750)
+
